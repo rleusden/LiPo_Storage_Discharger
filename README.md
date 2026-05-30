@@ -10,7 +10,7 @@ This project was created after discovering that many battery analyzers and capac
 ## Features
 
 * Automatic storage discharge for 1S LiPo batteries
-* Target voltage approximately 3.85V
+* Target voltage approximately 3.80V
 * Selectable discharge current:
 
   * 100mA
