@@ -8,7 +8,7 @@
 
 Download the Gerber package for PCB fabrication:
 
-[📦 Download Gerbers](gerbers/gerbers.zip)
+[📦 Download Gerbers](gerbers/Gerber_LiPo-Storage-discharger_PCB.zip)
 
 # DisCharge Graph
 
