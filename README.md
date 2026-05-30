@@ -3,7 +3,7 @@ A simple analog LiPo storage discharger designed to automatically discharge a 1S
 
 This project was created after discovering that many battery analyzers and capacity testers can only leave a cell either fully charged or fully discharged. For long-term storage, neither condition is ideal. This circuit provides a simple and inexpensive way to automatically discharge a fully charged cell to the recommended storage voltage.
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.png)
 
 ---
 
